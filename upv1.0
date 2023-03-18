@@ -1,0 +1,1 @@
+Prompt "Unable to start the hosted network. The state of the group or resource is not the correct state to perform the requested operation." Then enter the device manager (win+r, enter devmgmt.msc), and right-click the Microsoft hosted network virtual adapter to enable it.
